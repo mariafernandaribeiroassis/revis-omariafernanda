@@ -1,3 +1,7 @@
 body{
     background-image: linear-gradient(#592202, #FCF9E1);
 }
+
+img{
+    width: 400px;
+}
